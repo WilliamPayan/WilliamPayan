@@ -43,6 +43,14 @@ I aim to help businesses identify and mitigate security risks while expanding my
 
 -->
 
+<!--## Projects-->
+
+## Skills & Projects
+
+| Skill                    | Associated Project         |
+|--------------------------|----------------------------|
+| Vulnerability Management | <a href="https://github.com/WilliamPayan/Vulnerability-Management-Program-Implementation.git">Vulnerability Mngmt Lab</a>|
+
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
@@ -52,11 +60,3 @@ I aim to help businesses identify and mitigate security risks while expanding my
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 -->
 </div>
-
-<!--## Projects-->
-
-## Skills
-
-| Skill                    | Associated Project         |
-|--------------------------|----------------------------|
-| Vulnerability Management | <a href="https://github.com/WilliamPayan/Vulnerability-Management-Program-Implementation.git">Vulnerability Mngmt Lab</a>|
