@@ -58,6 +58,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Skills
 
-| Skill                                           | Associated Project         |
-|-------------------------------------------------|----------------------------|
-| Vulnerability Management Program Implementation | <a href="https://google.com">Vulnerability Mngmt Lab</a>|
+| Skill                    | Associated Project         |
+|--------------------------|----------------------------|
+| Vulnerability Management | <a href="https://google.com">Vulnerability Mngmt Lab</a>|
