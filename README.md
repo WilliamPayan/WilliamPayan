@@ -54,11 +54,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 -->
 </div>
 
-## Projects
+<!--## Projects-->
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Skill                                           | Associated Project         |
+|-------------------------------------------------|----------------------------|
+| Vulnerability Management Program Implementation | <a href="https://google.com">Vulnerability Mngmt Lab</a>|
