@@ -1,12 +1,11 @@
 # Hello, I'm William
 <a href="https://www.linkedin.com/in/william-payan/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Passionate about safeguarding digital assets and protecting critical systems. Eager to contribute to a team focused on innovative security solutions.
+I thrive on solving complex security challenges and constantly push myself to stay ahead of evolving cyber threats. Whether it’s hardening cloud environments, uncovering vulnerabilities, or automating security processes, I’m committed to enhancing cybersecurity defenses.
+## Objective
 
-<!-- ## Objective
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
-
+I aim to help businesses identify and mitigate security risks while expanding my expertise in red teaming and cloud security strategies.
+<!--
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
