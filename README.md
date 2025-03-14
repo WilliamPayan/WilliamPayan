@@ -50,10 +50,11 @@ I aim to help businesses identify and mitigate security risks while expanding my
 | Skill                    | Associated Project         |
 |--------------------------|----------------------------|
 | Vulnerability Management | <a href="https://github.com/WilliamPayan/Vulnerability-Management-Program-Implementation.git">Vulnerability Mngmt Lab</a>|
+| Threat Hunting           | <a href="https://github.com/WilliamPayan/Threat-Hunting-Scenario.git">Threat Hunting (tor)</a>|
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<a href="https://www.linkedin.com/in/william-payan/details/certifications/"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
 <!--<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
